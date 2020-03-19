@@ -1,4 +1,6 @@
 # go-optional
+![badge](https://github.com/ThisIsClark/go-optional/workflows/Go/badge.svg)
+
 The optional type of Golang
 
  ## Usage
